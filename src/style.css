@@ -148,7 +148,7 @@ h3 {
     padding-top: 0;
     padding-bottom: 20px;
     font-family: helvetica;
-    width: 1000px;
+    max-width: 1000px;
     margin: auto;
     text-align: center;
 }
